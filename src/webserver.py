@@ -1,4 +1,3 @@
-n
 from flask import Flask,request, jsonify
 from flask_cors import CORS
 from src.cvreader import CvReader
